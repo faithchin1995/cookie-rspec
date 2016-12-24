@@ -1,0 +1,1 @@
+rspec cookie_spec.rb --format documentation --color
